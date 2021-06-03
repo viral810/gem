@@ -1,6 +1,6 @@
 # gem template
 
-This is a GitHub template for creating Ruby gems. Press [**Use this template**](https://github.com/mattbrictson/gem/generate) to generate a project from this template. In the generated project, run this script to rename the gem to meet your needs:
+This is a GitHub template for creating Ruby gems. Press [**Use this template**](https://github.com/viral810/gem/generate) to generate a project from this template. In the generated project, run this script to rename the gem to meet your needs:
 
 ```
 $ ruby rename_template.rb
